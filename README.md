@@ -6,8 +6,32 @@ It can be formed by taking the alphabet and mapping it to its reverse, so that t
 the second letter becomes the second to last letter, and so on.
 
 For Example
-	_____________________________________________________________________________________
-	| Plain| A| B| C| D| E| F| G| H| I| J| K| L| M| N| O| P| Q| R| S| T| U| V| W| X| Y| Z|
-	|______|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|
-	|Cipher| z| Y| X| W| V| U| T| S| R| Q| P| O| N| M| L| K| J| I| H| G| F| E| D| C| B| A|
-	|______|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|
+	 PLAIN           CIPHER
+
+        A       ->      Z
+        B       ->      Y
+        C       ->      X
+        D       ->      w
+        E       ->      V
+        F       ->      U
+        G       ->      T
+        H       ->      S
+        I       ->      R
+        J       ->      Q
+        K       ->      P
+        L       ->      O
+        M       ->      N
+        N       ->      M
+        O       ->      L
+        P       ->      K
+        Q       ->      J
+        R       ->      I
+        S       ->      H
+        T       ->      G
+        U       ->      F
+        V       ->      E
+        W       ->      D
+        X       ->      C
+        Y       ->      B
+        Z       ->      A
+
