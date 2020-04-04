@@ -6,7 +6,9 @@ It can be formed by taking the alphabet and mapping it to its reverse, so that t
 the second letter becomes the second to last letter, and so on.
 
 For Example
-	 PLAIN           CIPHER
+	 
+	
+	PLAIN           CIPHER
 
         A       ->      Z
         B       ->      Y
